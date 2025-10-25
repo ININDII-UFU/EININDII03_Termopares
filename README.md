@@ -3,7 +3,6 @@
 > **Disciplina:** Instrumentação Industrial II  
 > **Curso:** Engenharia de Controle e Automação  
 > **Instituição:** Universidade Federal de Uberlândia — FEELT  
-> **Data:** 30/09/2025  
 
 ---
 
